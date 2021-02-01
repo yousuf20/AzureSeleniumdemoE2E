@@ -7,18 +7,18 @@
 
 
 </listeners>
-  <test thread-count="5" name="Validating Homepage user login">
+  <test name="Validating Homepage user login">
     <classes>
       <class name="Project.E2EFramework.HomePage"/>
       </classes>
       </test>
       
-      <test thread-count="5" name="Validate Name">
+      <test  name="Validate Name">
     <classes>
       <class name="Project.E2EFramework.ValidateName"/>
       </classes>
       </test>
-      <test thread-count="5" name="Validate Deals">
+      <test  name="Validate Deals">
     <classes>
       <class name="Project.E2EFramework.ValidateDeal"/>
       
