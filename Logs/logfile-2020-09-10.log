@@ -1,0 +1,7 @@
+19:49:59.368 [TestNG-tests-1] INFO  Resources.base - Log in successful
+19:49:59.385 [TestNG-tests-1] INFO  Resources.base - Restricted User
+19:50:15.442 [TestNG-tests-1] INFO  Resources.base - Log in successful
+19:50:15.443 [TestNG-tests-1] INFO  Resources.base - Non Restricted User
+19:52:10.718 [TestNG-tests-3] INFO  Resources.base - Browser initilized successfully
+20:21:23.041 [TestNG-tests-3] INFO  Resources.base - Browser initilized successfully
+20:21:33.544 [TestNG-tests-3] INFO  Resources.base - Navigated to Homepage

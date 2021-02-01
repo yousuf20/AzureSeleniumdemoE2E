@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 70.715 s <<< FAILURE! - in TestSuite
+Project.E2EFramework.ValidateName.ValidateName  Time elapsed: 0.451 s  <<< FAILURE!
+java.lang.AssertionError: expected [Prepaid Plans] but found [Broadband Plans]
+	at Project.E2EFramework.ValidateName.ValidateName(ValidateName.java:40)
+
+Project.E2EFramework.HomePage.ValidateSocials  Time elapsed: 0.931 s  <<< FAILURE!
+java.lang.AssertionError: expected [twitter] but found [Twitter]
+	at Project.E2EFramework.HomePage.ValidateSocials(HomePage.java:66)
+

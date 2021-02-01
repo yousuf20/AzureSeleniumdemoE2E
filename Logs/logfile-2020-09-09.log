@@ -1,0 +1,7 @@
+19:56:11.632 [TestNG-tests-1] INFO  Resources.base - Log in successful
+19:56:11.652 [TestNG-tests-1] INFO  Resources.base - Restricted User
+19:56:24.627 [TestNG-tests-1] INFO  Resources.base - Log in successful
+19:56:24.627 [TestNG-tests-1] INFO  Resources.base - Non Restricted User
+20:38:34.992 [TestNG-tests-3] INFO  Resources.base - Browser initilized successfully
+20:38:44.213 [TestNG-tests-3] INFO  Resources.base - Navigated to Homepage
+20:38:44.345 [TestNG-tests-3] INFO  Resources.base - Hottest Pay Monthly Deals tab displayed successfully

@@ -1,0 +1,7 @@
+17:15:04.888 [TestNG-tests-3] INFO  Resources.base - Navigated to Homepage
+17:15:05.085 [TestNG-tests-3] INFO  Resources.base - Hottest Pay Monthly Deals tab displayed successfully
+17:15:19.857 [TestNG-tests-1] INFO  Resources.base - Log in successful
+17:15:19.858 [TestNG-tests-1] INFO  Resources.base - Restricted User
+17:19:11.780 [TestNG-tests-3] INFO  Resources.base - Browser initilized successfully
+17:19:20.238 [TestNG-tests-3] INFO  Resources.base - Navigated to Homepage
+17:19:20.368 [TestNG-tests-3] INFO  Resources.base - Hottest Pay Monthly Deals tab displayed successfully

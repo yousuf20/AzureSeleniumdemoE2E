@@ -1,0 +1,7 @@
+19:45:58.016 [TestNG-tests-1] INFO  Resources.base - Restricted User
+19:46:11.930 [TestNG-tests-1] INFO  Resources.base - Log in successful
+19:46:11.930 [TestNG-tests-1] INFO  Resources.base - Non Restricted User
+20:52:28.706 [main] ERROR Resources.base - Expected Name Syed Yousufuddin was not found
+20:52:53.483 [main] ERROR Resources.base - Expected Name Syed Yousufuddin was not found
+21:23:46.653 [TestNG-tests-3] INFO  Resources.base - Browser initilized successfully
+21:24:00.845 [TestNG-tests-3] INFO  Resources.base - Navigated to Homepage

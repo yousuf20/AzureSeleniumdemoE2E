@@ -1,0 +1,8 @@
+15:43:41.806 [main] INFO  Resources.base - Log in successful
+15:43:41.858 [main] INFO  Resources.base - Restricted User
+16:24:56.643 [main] INFO  Resources.base - Log in successful
+16:24:56.649 [main] INFO  Resources.base - Restricted User
+16:25:08.322 [main] INFO  Resources.base - Log in successful
+16:25:08.322 [main] INFO  Resources.base - Non Restricted User
+16:25:25.808 [main] INFO  Resources.base - Browser initilized successfully
+16:25:29.919 [main] INFO  Resources.base - Navigated to Homepage
