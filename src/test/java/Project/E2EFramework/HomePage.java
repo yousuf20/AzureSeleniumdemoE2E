@@ -80,6 +80,7 @@ public class HomePage extends base{
 		data[1][2]="Non Restricted User";
 		
 		System.out.println(data);
+		System.out.println(data);
 		
 		return data;
 		
