@@ -79,6 +79,8 @@ public class HomePage extends base{
 		data[1][1]="Bissmillah1";
 		data[1][2]="Non Restricted User";
 		
+		System.out.println(data);
+		
 		return data;
 		
 	}
